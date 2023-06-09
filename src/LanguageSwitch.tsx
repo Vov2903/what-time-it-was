@@ -21,4 +21,3 @@ export const LanguageSwitch = ({
 		</select>
 	</section>
 );
-        
