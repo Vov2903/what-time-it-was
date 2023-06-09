@@ -9,3 +9,4 @@ export const Footer = () => {
 
 	return <footer className="underline">© {yearToShow} Eliaz Bobadilla</footer>;
 };
+        
