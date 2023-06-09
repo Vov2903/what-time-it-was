@@ -21,4 +21,3 @@ export const TimeZoneSwitch = ({handler}: TimeZoneProps) => (
 		))}
 	</select>
 );
-        
