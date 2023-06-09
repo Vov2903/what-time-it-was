@@ -6,4 +6,3 @@ export default defineConfig({
 	plugins: [react()],
 	base: env.IS_GITHUB ? 'what-time-it-was' : undefined,
 });
-        
