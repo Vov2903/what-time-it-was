@@ -7,3 +7,4 @@ export interface Language {
 }
 
 export type SwitchInput = FormEventHandler<HTMLSelectElement>;
+        
